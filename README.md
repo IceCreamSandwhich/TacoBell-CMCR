@@ -1,2 +1,2 @@
 # TacoBell-CMCR
-3 lb lifter robot for competitions
+3 lb lifter robot with weapon arm for competitions
